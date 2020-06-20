@@ -1,0 +1,3 @@
+[submodule "OpenSSL PKI Tutorial"]
+	path = OpenSSL PKI Tutorial
+	url = git@bitbucket.org:stefanholek/pki-tutorial.git
